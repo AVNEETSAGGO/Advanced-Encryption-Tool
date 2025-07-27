@@ -35,5 +35,3 @@ User-Friendly Command-Line Interface (CLI): The main function creates an interac
 Error Handling: The application includes robust error handling to gracefully manage common issues such as incorrect file paths (FileNotFoundError), invalid user input, or potential decryption failures (e.g., using the wrong key), providing clear feedback to the user.
 
 This project was a significant learning experience, providing deep insights into the practical application of modern cryptography. It required a thorough understanding of symmetric-key algorithms, block cipher modes, padding schemes, and the critical importance of secure key management. The development process involved researching best practices, understanding the cryptography library's API, and designing a user interface that is both functional and easy to navigate. The final result is a powerful and reliable tool that successfully meets all the requirements of the internship task.
-
- Output Screenshots
